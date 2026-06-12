@@ -53,5 +53,5 @@ python3 simulation/warehouse_simulation_v2.py   # regenerates warehouse_events.c
 ```
 Then: upload the CSV to a Blob container, create the table from `sql/schema_and_kpi_queries.sql`, point an ADF Copy activity at it, and connect Power BI to the SQL database.
 
----
-*Sahana Saravanan · MS Engineering Management & Data Science, University of North Texas · 2026*
+
+
